@@ -1,8 +1,9 @@
 # Huong dan cai dat Joblin
 - Download: https://joplinapp.org/help/install/
 - Install
-```
+```sh
 # Install lib
+apt-get install libfuse2
 
 
 # Install Joplin
