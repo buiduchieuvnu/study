@@ -1,4 +1,4 @@
-# VPN of VNPT-IT
+# Global Protect VPN
 ## Install
 ```sh
 # unzip
